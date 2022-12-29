@@ -10,6 +10,22 @@ its large spikes. Other states (i.e., preictal and postictal) are out of our sco
 CHB-MIT [1] is the source of the EEG records that will be used for this project and found in this
 link:
 https://drive.google.com/drive/folders/129n48qq7R7Y-QE68dciBESN9YCW8PCf1?usp=sharing
+## Project tasks:
+* Pre-processing
+* Spectrogram
+* Plotting
+* Manipulating the data and feeding it to a ML or DL model to be trained without
+coding errors.
+* Manipulating the data, training model(s), tuning for different hyperparameters,
+tuning for different spectrogram parameters (f & t resolution, window size,
+window type) and documenting the different runs. 
+
+* Manipulating the data, training model(s), tuning for different hyperparameters,
+tuning for different spectrogram parameters (f & t resolution, window size,
+window type) and documenting the different runs and reporting high metrics
+(e.g., accuracy).
+
+
 # ML, DL Models:
 *   SVM	0.874016	
 * 	SVM Kfold	0.841327
