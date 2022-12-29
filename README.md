@@ -26,7 +26,7 @@ window type) and documenting the different runs and reporting high metrics
 (e.g., accuracy).
 
 
-# ML, DL Models:
+# ML, DL Models' accurecies:
 *   SVM	0.874016	
 * 	SVM Kfold	0.841327
 * 	KNN	0.937008	
