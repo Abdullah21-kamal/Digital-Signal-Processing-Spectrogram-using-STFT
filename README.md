@@ -26,6 +26,9 @@ window type) and documenting the different runs and reporting high metrics
 (e.g., accuracy).
 
 
+# Electroencephalography (EEG) is the gold standard for diagnosing epilepsy by identifying unique brain wave patterns. 
+the project provide us with a clear Spectrogram pictures with time and frequency responses to determine the patient condition, then we use ML and DL models to train and detect the disease 
+
 # ML, DL Models' accurecies:
 *   SVM	0.874016	
 * 	SVM Kfold	0.841327
