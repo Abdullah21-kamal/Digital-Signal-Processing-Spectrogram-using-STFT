@@ -1,6 +1,6 @@
 # Digital-Signal-Processing-Spectrogram-using-STFT
 # ML, DL Models:
-SVM	0.874016	
+*   SVM	0.874016	
 * 	SVM Kfold	0.841327
 * 	KNN	0.937008	
 * 	KNN Kfold	0.895772
